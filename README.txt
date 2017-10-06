@@ -15,6 +15,8 @@
         'easy_thumbnails.processors.filters',
     )
 
+5 En el archivo settings.py de filer (/ruta/hasta/python3.x/site-packages/filer/settings.py):
+    FILER_ENABLE_PERMISSIONS: Ponerlo en True
 
 Documentacion:
 http://django-filer.readthedocs.io/en/1.2.8/
