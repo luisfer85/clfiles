@@ -125,4 +125,8 @@ THUMBNAIL_HIGH_RESOLUTION = True
 
 STATIC_URL = '/static/'
 
+MEDIA_URL = '/media/'
+
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'clfiles', 'statics')]
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'clfiles', 'media')
