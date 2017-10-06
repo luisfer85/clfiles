@@ -1,7 +1,6 @@
 1 Instalaciones:
     pip3 install Pillow
     pip3 install django-filer
-    pip3 install django-bootstrap3
 
 2 python manage.py migrate
 
